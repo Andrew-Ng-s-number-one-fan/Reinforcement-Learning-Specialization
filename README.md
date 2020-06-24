@@ -1,5 +1,5 @@
 # [Reinforcement Learning Specialization](https://www.coursera.org/specializations/reinforcement-learning)
-<b>A series of 4 courses offered by the University of Alberta</b>
+<i>A series of 4 courses offered by the University of Alberta</i>
 
 #### Course 1: [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
 
