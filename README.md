@@ -3,7 +3,10 @@
 
 #### Course 1: [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
 
-* Week 1: 
+* Week 1: The K-Armed Bandit Problem
+
+    * Quiz: Exploration/Exploitation
+    * Assignment: Bandits and Exploration/Exploitation
 
 #### Course 2: [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 
