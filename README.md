@@ -3,8 +3,10 @@
 
 #### Course 1: [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
 
-* Week 1: The K-Armed Bandit Problem
-
+* Week 1:
+    * Lesson 1: The K-Armed Bandit Problem
+    * Lesson 2: What to Learn? Estimating Action Values
+    * Lesson 3: Exploration vs. Exploitation Tradeoff
     * Quiz: Exploration/Exploitation
     * Assignment: Bandits and Exploration/Exploitation
 
