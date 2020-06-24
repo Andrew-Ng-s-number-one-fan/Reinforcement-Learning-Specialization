@@ -3,6 +3,8 @@
 
 #### Course 1: [Fundamentals of Reinforcement Learning](https://www.coursera.org/learn/fundamentals-of-reinforcement-learning)
 
+* Week 1: 
+
 #### Course 2: [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 
 #### Course 3: [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
