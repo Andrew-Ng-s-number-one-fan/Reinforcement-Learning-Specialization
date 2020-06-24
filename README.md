@@ -26,11 +26,23 @@
    * **Lesson 3:** Optimality (Optimal Policies & Value Functions)
    * **Practice Quiz:** Value Functions and Bellman Equations
    * **Quiz:** Value Functions and Bellman Equations
+   
+* **Week 4**:
+   
+   * **Lesson 1:** Policy Evaluation (Prediction)
+   * **Lesson 2:** Policy Iteration (Control)
+   * **Lesson 3:** Generalized Policy Iteration
+   * **Practice Quiz:** Dynamic Programming
+   * **Assignment:** Optimal Policies with Dynamic Programming
     
 <hr>
 
 #### Course 2: [Sample-based Learning Methods](https://www.coursera.org/learn/sample-based-learning-methods)
 
+<hr>
+
 #### Course 3: [Prediction and Control with Function Approximation](https://www.coursera.org/learn/prediction-control-function-approximation)
+
+<hr>
 
 #### Course 4: [A Complete Reinforcement Learning System (Capstone)](https://www.coursera.org/learn/complete-reinforcement-learning-system)
